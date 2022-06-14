@@ -8,7 +8,6 @@ class UserService {
       user_name,
       password,
     })
-    console.log(res, 'Res~~')
     return res
   }
 }
